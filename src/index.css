@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.class1 
+{
+  background-color: aqua;
+  border: 2px solid green;
+  
+}
